@@ -1,0 +1,17 @@
+{
+  "name": "from-flatten-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha './utils/**/*.spec.js' --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "lodash": "^4.17.4",
+    "mocha": "^3.4.2",
+    "node-fetch": "^1.7.1"
+  }
+}
